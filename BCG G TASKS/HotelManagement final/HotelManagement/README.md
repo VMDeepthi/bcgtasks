@@ -12,3 +12,4 @@ when go back to room availability page the selected room by us will be shown on 
 when we logout from the page and click back button and enter room booking detalis and submit then it will shows session over plaese login again>.....
 Logout from manager page and now we login with receptionist credentials.  In this page we will have room availabilty and room booking accessibility to recepionist the functionalities are same as the admin functionalities..
 
+commands:python manage.py runserver
